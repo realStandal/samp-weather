@@ -2,29 +2,9 @@
 
 [![sampctl](https://shields.southcla.ws/badge/sampctl-a_weather-2f2f2f.svg?style=for-the-badge)](https://github.com/Cezear/a_weather)
 
-<!--
-Short description of your library, why it's useful, some examples, pictures or
-videos. Link to your forum release thread too.
+This is a recreate of the mweather include by SA-MP forum user [Mauzen](http://forum.sa-mp.com/member.php?u=10237).
 
-Remember: You can use "forumfmt" to convert this readme to forum BBCode!
-
-What the sections below should be used for:
-
-`## Installation`: Leave this section un-edited unless you have some specific
-additional installation procedure.
-
-`## Testing`: Whether your library is tested with a simple `main()` and `print`,
-unit-tested, or demonstrated via prompting the player to connect, you should
-include some basic information for users to try out your code in some way.
-
-And finally, maintaining your version number`:
-
-* Follow [Semantic Versioning](https://semver.org/)
-* When you release a new version, update `VERSION` and `git tag` it
-* Versioning is important for sampctl to use the version control features
-
-Happy Pawning!
--->
+It should be noted that while I call this a recreate, it is only a recreate of the idea mweather originally introduced; which were weather zones that get real-life weather data.
 
 ## Installation
 
@@ -42,19 +22,9 @@ Include in your code and begin using the library:
 
 ## Usage
 
-<!--
-Write your code documentation or examples here. If your library is documented in
-the source code, direct users there. If not, list your API and describe it well
-in this section. If your library is passive and has no API, simply omit this
-section.
--->
+For usage instructions, view the [Wiki](https://github.com/Cezear/a_weather/wiki)
 
 ## Testing
-
-<!--
-Depending on whether your package is tested via in-game "demo tests" or
-y_testing unit-tests, you should indicate to readers what to expect below here.
--->
 
 To test, simply run the package:
 
