@@ -4,6 +4,14 @@
 	"entry": "test.pwn",
 	"output": "test.amx",
 	"dependencies": [
-		"sampctl/samp-stdlib"
-	]
+		"sampctl/samp-stdlib",
+		"Open-GTO/foreach",
+		"pawn-lang/YSI-Includes"
+	],
+	"runtime": {
+		"version": "0.3.DL",
+		"mode": "server",
+		"rcon_password": "password",
+		"port": 7777
+	}
 }
