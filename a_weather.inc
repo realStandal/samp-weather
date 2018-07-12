@@ -82,7 +82,7 @@ hook OnGameModeInit() {
 // =========== [ Callbacks ] ===========
 
 forward OnWeatherObserverUpdate(observerid, oldweather, newweather);
-forward OnPlayerWeatherZoneChange(playerid, newzone, oldzone);
+forward OnPlayerWeatherZoneChange(playerid, oldzone, newzone);
 
 // =========== [ Internal Functions ] ===========
 
