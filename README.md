@@ -2,7 +2,8 @@
 
 [![sampctl](https://shields.southcla.ws/badge/sampctl-a_weather-2f2f2f.svg?style=for-the-badge)](https://github.com/Cezear/a_weather)
 
-![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)
+![Code Climate](https://img.shields.io/codeclimate/issues/twbs/bootstrap.svg)
+
 
 
 This is a recreate of the mweather include by SA-MP forum user [Mauzen](http://forum.sa-mp.com/member.php?u=10237).
