@@ -1,6 +1,6 @@
-# a_weather
+# weather
 
-[![sampctl](https://shields.southcla.ws/badge/sampctl-a_weather-2f2f2f.svg?style=for-the-badge)](https://github.com/Cezear/a_weather)
+[![sampctl](https://shields.southcla.ws/badge/sampctl-a_weather-2f2f2f.svg?style=for-the-badge)](https://github.com/Cezear/samp-weather)
 
 This is a recreate of the mweather include by SA-MP forum user [Mauzen](http://forum.sa-mp.com/member.php?u=10237).
 
@@ -27,13 +27,13 @@ If a zone is set to be movable, it will move when the wind speed of the API area
 Simply install to your project:
 
 ```bash
-sampctl package install Cezear/a_weather
+sampctl package install Cezear/samp-weather
 ```
 
 Include in your code and begin using the library:
 
 ```pawn
-#include <a_weather>
+#include <weather>
 ```
 In addition to installing the package within your SAMP server, there is a PHP file that you will also need to upload to a web server. 
 
@@ -41,7 +41,7 @@ To install this, simply copy **weather.php** into your webservers root directory
 
 ## Usage
 
-For usage instructions, view the [Wiki](https://github.com/Cezear/a_weather/wiki)
+For usage instructions, view the [Wiki](https://github.com/Cezear/samp-weather/wiki)
 
 ## Testing
 
