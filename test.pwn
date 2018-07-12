@@ -1,5 +1,5 @@
 #include <a_samp>
-#include "a_weather.inc"
+#include "weather.inc"
 
 new TR_Observer,
     LV_Observer,
@@ -34,4 +34,8 @@ main() {
     AddWeatherZone(FC_Observer, -1264.03125, -2967, 61.96875, 549, false);
     AddWeatherZone(RC_Observer, 64.96875, -663, 3003, 549, false);
     AddWeatherZone(FORT_CARSON_Observer,  -1261.03125, 549, 865.96875, 1596, false);
+}
+
+public OnGameModeExit() {
+    RemoveWeatherObserver(LS_Observer);
 }
