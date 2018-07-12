@@ -2,7 +2,7 @@
 
 [![sampctl](https://shields.southcla.ws/badge/sampctl-a_weather-2f2f2f.svg?style=for-the-badge)](https://github.com/Cezear/a_weather)
 
-![GitHub tag](https://img.shields.io/github/tag/Cezear/a_weather.svg?style=flat-square)
+![GitHub release](https://img.shields.io/github/release/Cezear/a_weather.svg?style=flat-square)
 ![Github All Releases](https://img.shields.io/github/downloads/Cezear/a_weather/total.svg?style=flat-square)
 ![A_Weather](https://img.shields.io/codeclimate/issues/Cezear/a_weather.svg?style=flat-square)
 
