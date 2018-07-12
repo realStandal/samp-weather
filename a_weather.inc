@@ -174,7 +174,6 @@ stock bool:IsPlayerInMultipleZones(playerid) {
 	return false;
 }
 
-// native GetPriorityWeatherZone(playerid);
 stock GetPriorityWeatherZone(playerid) {
 	for(new i = 0; i < MAX_WEATHER_ZONES; i++) {
 		if(!WeatherZone[i][weather_zone])
